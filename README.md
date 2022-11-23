@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Anamul Haque.</h1>
-<h3 align="center">A passionate Frontend Web developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN developer from Bangladesh</h3>
 
 <h3 align="left">Skills & Experience:</h3>
 <p align="left">
